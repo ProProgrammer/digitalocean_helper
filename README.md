@@ -1,8 +1,7 @@
 The code here requires:
 * [digitalocean python library](https://github.com/koalalorenzo/python-digitalocean)
 * Access to [Digital Ocean API token](https://www.digitalocean.com/docs/api/create-personal-access-token/)
-* Digital Ocean API token added as [environment variable](https://www.twilio
-.com/blog/2017/01/how-to-set-environment-variables.html) named `DO_API_TOKEN`
+* Digital Ocean API token added as [environment variable](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html) named `DO_API_TOKEN`
 
 Sample usage:
 * Clone the repository where you want to run the commands
